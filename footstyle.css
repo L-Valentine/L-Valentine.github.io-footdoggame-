@@ -1,0 +1,31 @@
+body {
+	background-color: #e3e3e3;
+}
+
+#foot {
+	width: 600px;
+	margin: 0 auto;
+}
+
+canvas {
+	cursor: none;
+	position: relative;
+}
+
+#pointOutput {
+	z-index: 1;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 27px;
+	font-size: 25px;
+	color: #ffd700;
+}
+
+#cupOutput {
+	z-index: 1;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 57px;
+	font-size: 25px;
+	color: #ffd700;
+}
